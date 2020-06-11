@@ -5,3 +5,12 @@ E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsForm
 E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x64\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
 E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x64\Debug\WindowsFormsApplication.exe
 E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x64\Debug\WindowsFormsApplication.pdb
+D:\git code\WindowTool\WindowsFormsApplication\bin\x64\Debug\WindowsFormsApplication.exe
+D:\git code\WindowTool\WindowsFormsApplication\bin\x64\Debug\WindowsFormsApplication.pdb
+D:\git code\WindowTool\WindowsFormsApplication\obj\x64\Debug\WindowsFormsApplication.csprojAssemblyReference.cache
+D:\git code\WindowTool\WindowsFormsApplication\obj\x64\Debug\WindowsFormsApplication.Form1.resources
+D:\git code\WindowTool\WindowsFormsApplication\obj\x64\Debug\WindowsFormsApplication.Properties.Resources.resources
+D:\git code\WindowTool\WindowsFormsApplication\obj\x64\Debug\WindowsFormsApplication.csproj.GenerateResource.cache
+D:\git code\WindowTool\WindowsFormsApplication\obj\x64\Debug\WindowsFormsApplication.csproj.CoreCompileInputs.cache
+D:\git code\WindowTool\WindowsFormsApplication\obj\x64\Debug\WindowsFormsApplication.exe
+D:\git code\WindowTool\WindowsFormsApplication\obj\x64\Debug\WindowsFormsApplication.pdb
