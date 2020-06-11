@@ -1,0 +1,7 @@
+E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\bin\x64\Debug\WindowsFormsApplication.exe
+E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\bin\x64\Debug\WindowsFormsApplication.pdb
+E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x64\Debug\WindowsFormsApplication.Form1.resources
+E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x64\Debug\WindowsFormsApplication.Properties.Resources.resources
+E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x64\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x64\Debug\WindowsFormsApplication.exe
+E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x64\Debug\WindowsFormsApplication.pdb

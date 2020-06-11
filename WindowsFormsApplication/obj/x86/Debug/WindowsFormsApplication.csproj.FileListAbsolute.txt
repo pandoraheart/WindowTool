@@ -1,0 +1,25 @@
+G:\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+G:\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+G:\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Form1.resources
+G:\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Properties.Resources.resources
+G:\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+G:\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.exe
+G:\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.pdb
+G:\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
+H:\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.exe
+H:\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.pdb
+H:\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+H:\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+H:\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
+H:\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Form1.resources
+H:\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Properties.Resources.resources
+H:\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Form1.resources
+E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Properties.Resources.resources
+E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.exe
+E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.pdb
+E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.csproj.CoreCompileInputs.cache
+E:\liujun backup\f\刘军备份\窗口置顶\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.csprojAssemblyReference.cache
